@@ -1,0 +1,19 @@
+.table > thead > tr > * {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+    text-align: center;
+}
+
+span{
+	font-weight: bold;
+	color:blue;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
